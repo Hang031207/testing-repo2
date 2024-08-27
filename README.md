@@ -14,4 +14,8 @@ Cause I need you, to see, that you're the reason.
 ## subheader 3
 Never gonna give you up
 Never gonna let you down
+<<<<<<< HEAD
 Never gonna run around and desert you
+=======
+Never gonna make you cry
+>>>>>>> main
